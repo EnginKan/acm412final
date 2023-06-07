@@ -1,4 +1,5 @@
-[
+{
+  [
   {
   "location": "Istanbul",
   "temperature": 25,
@@ -39,3 +40,4 @@
 
 
 ]
+}
