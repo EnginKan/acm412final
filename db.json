@@ -1,43 +1,39 @@
 {
- "weather": [
-  {
-  "location": "Istanbul",
-  "temperature": 25,
-  "description": "Sunny",
-  "humidity": 60,
-  "wind_speed": 10
-},
-  {
-  "location": "Ankara",
-  "temperature": 25,
-  "description": "Sunny",
-  "humidity": 60,
-  "wind_speed": 10
-},
-  {
-  "location": "Izmir",
-  "temperature": 25,
-  "description": "Sunny",
-  "humidity": 60,
-  "wind_speed": 10
-},
-  {
-  "location": "Mugla",
-  "temperature": 30,
-  "description": "Sunny",
-  "humidity": 60,
-  "wind_speed": 10
-},
-  {
-  "location": "Antalya",
-  "temperature": 32,
-  "description": "Sunny",
-  "humidity": 60,
-  "wind_speed": 10
-}
+	"weather": [{
+			"location": "Istanbul",
+			"temperature": 25,
+			"description": "Sunny",
+			"humidity": 60,
+			"wind_speed": 10
+		},
+		{
+			"location": "Ankara",
+			"temperature": 25,
+			"description": "Sunny",
+			"humidity": 60,
+			"wind_speed": 10
+		},
+		{
+			"location": "Izmir",
+			"temperature": 25,
+			"description": "Sunny",
+			"humidity": 60,
+			"wind_speed": 10
+		},
+		{
+			"location": "Mugla",
+			"temperature": 30,
+			"description": "Sunny",
+			"humidity": 60,
+			"wind_speed": 10
+		},
+		{
+			"location": "Antalya",
+			"temperature": 32,
+			"description": "Sunny",
+			"humidity": 60,
+			"wind_speed": 10
+		}
 
-
-
-
-]
+	]
 }
